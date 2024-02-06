@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gato-master/app/src/main/res/layout/activity_estaditicas.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gato-master/app/src/main/res/layout/activity_juego.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gato-master/app/src/main/res/layout/activity_jugadores.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gato-master/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gato-master/app/src/main/res/layout/activity_nivel_juego.xml" value="0.25" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/layout/activity_estaditicas.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/layout/activity_juego.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/layout/activity_juego_maquina.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/layout/activity_jugadores.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/layout/activity_maquina_juego.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/layout/activity_nivel_juego.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/layout/activity_sin_amigos.xml" value="0.209375" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2165" />
+        <entry key="..\:/Users/mar_l/AndroidStudioProjects/Gatomaster/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
